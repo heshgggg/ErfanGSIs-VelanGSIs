@@ -189,4 +189,4 @@ echo "URL = ${URL}"
 echo "SRCTYPE = ${SRCTYPE}"
 echo "SRCTYPENAME = ${SRCTYPENAME}"
 echo "OTHER = ${@}"
-fi
+pause
